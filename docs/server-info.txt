@@ -1,0 +1,60 @@
+﻿Lost Dungeons of Adventure is a Medium magic, medium leveling Action PW. It uses heavily scripted custom systems for just about everything so it should offer players a unique experience.
+The server can be found in PW Action under "Lost Dungeons".
+Direct connect: 13.90.198.71
+Current version is 3.60a
+Discord server: Lost Dungeons of Adventure - NWN2
+<b>Connection Info:</b>
+When players first connect to the PW the auto-downloader will download all the required files.
+After the process is complete, you are ready to play!
+<b>Guidelines:</b>
+Role-play vs. Action
+This is an action PW. You are welcome to role-play as much as you want but you cannot expect that others will be doing the same. Focus is on dungeon delving, leveling, item acquisition and quest completion.
+PvP
+PvP is fully enabled in virtually all areas, however this is not a PvP server. The option is left open for those of you that like to kill each other but it is not an opportunity to grief, gank or ambush any and all players. Basic rule of thumb is this: If you're reasonably certain they're going to laugh about it then it's fair game.
+Twinking/Powerleveling
+There are no rules regarding twinking or power-leveling. Things I consider out of bounds for handing down to other players I attune or make them no-drop. Just in case there is a bug that makes it possible: the main rule is there is no transfer of runes or rune enhanced items allowed.
+Race/Class restrictions
+At this time there are no race or class, skill or feat restrictions.
+Have fun!
+Most important guideline is to have fun.
+<b>Quests:</b>
+There are two kinds of quests. Standard and Achievement. All quests are tracked in your journal and are updated dynamically as you progress.
+Standard Quests
+Standard quests are usually generic repeatable quests that you can get from shopkeepers, guards and other commoners. They are fairly simple (kill/collect) and generally net you some gold, xp and possibly some mundane treasure. You can only have five standard quests at any one time. To clear out a quest you can head back to the quest giver and you will be offered a dialogue option to remove the quest.
+Achievement quests
+Achievement quests are special quests given out by officials or unique NPCs. These quests more-or-less follow the storyline of the server although they take a few tangents as well. These quests almost always result in an epithet feat, a great deal of gold/XP, enhancement runes and sometimes add bonus powers to your spirit shard. (more on that later). As of this writing there are about a dozen achievement quests. The lion's share of which can be gotten from Councilman Thomas in the Land's Edge Council building. You can only have one achievement quest at any one time.
+
+<b>Game-play:</b>
+Experience
+We use a custom experience table. Experience is capped at level * 5 + 15 (i.e. 20 at level 1, 25 at level 2, 30 at level 3 etc etc). It is capped on both the monster and the player. If the player is level 1 and the monster is level 2 then you'll still only get 20 xp. If the player were level 2 and the monster were level 2 then the player would get 25.
+Experience is cut is cut in half when the PC is two levels higher than the mob and has diminishing returns after that. At 6 levels over, there is no experience.
+Grouping up has a small xp penalty (5-10%) that should more than be made up for by grouping. This penalty can be mitigated by fighting mobs 1 or more levels higher than the highest PC. There is no maximum level difference in grouping. A level 20 can group with a level 1. In groups the highest player level is used to determine Xp reduction and the level cap on xp is per player .
+Heroic Mobs
+Occasionally the player will encounter a Heroic mob. Heroic mobs are a more powerful version of the standard mob. They hit harder/more often, have better Ac, more HPs and may have other special abilities applied to them. They are also more likely to drop better loot (all heroics in standard areas drop magic items, but not in instance areas).
+Linked Mobs
+Linked mobs are designed to be battled as an encounter. Attacking or spell-casting one of them will aggro all of them. At early levels there may be a xp bonus for defeating linked mobs
+Spirit Shard
+All players (and some unique NPCs) have a spirit shard. It is integral to the story and it is what makes you difficult to kill. Your spirit shard will grow in power and abilities and you complete Achievement quests. (although there is a bug where you are required to log out and back in to have the bonus feats show up). You can also activate the spirit shard to access the OOC Tools. These tools can be used to refresh your quest list (should it get messed up), redo your last level, summon a rod of fast buffing, grant yourself feats required for Neverwinter Nine and SToA classes or sync up your epithet feats with your achievement quests (re-levling sometimes removes them).
+Without your shard you cannot re-spawn or get quests. Fortunately for you it's no-drop and plot so it's unlikely you'll lose it (and if you do, the next log-in will replace it).
+Instances
+Some dungeons are instances. While NWN2 doesn't support true instances (new, separate dungeon spawned for each party that enters) we have a reasonable facsimile. Instance dungeons completely re-spawn when a player/party enters for the first time and the mobs may even level up to match the group. In Instances Heroic mobs are the norm so the standard rule of them dropping magical items does not apply. There may be one or more boss/sub-bosses in an instance. Most of whom will drop something special.
+Instances are restricted areas and you cannot port into one. Nor can you log out in one (on log-in you will be killed and sent to your bind point)
+Death/Respawn
+On death the player can wait for a Resurrection or can re-spawn. Either way you are put into experience debt (100*Level) and respawning will send you to your bind point. You can change bind-points by attuning yourself to a binding obelisk.
+Loot
+Most mobs drop a modest amount of gold. While magical loot is not uncommon there are very few pieces of magic weapons, armor or shields that drop. These are handled by enhancement runes.
+<b>Magic and Items</b>
+Standard Magic Items
+Heroic mobs in standard areas generally drop magic items. For the most part it's either a head piece, amulet, ring, boots, cloak, bracer, gloves or robes. Basically everything but weapons, shields and armor (although a few pieces can be found on unique mobs). These items are of the +stat variety.
+Special Magic Items
+special magic items drop from unique/rare/named mobs. They are colored based on how rare/powerful they are: green = common, blue = uncommon, purple = rare, and gold = ultra-rare. These items usually be come attuned either on equip or acquire.
+Enhancement Runes
+enhancement runes are rewards from achievement quests. They can be used to enhance armor, weapons and shields. Standard enhancement runes grant a cumulative +1 enhancement bonus to a max of +3 (+5 for gloves), To go beyond that you can use special runes which increase the maximum enhancement on an item. To use a rune simply right-click and activate it and target a weapon, armor or shield (gloves and bows are valid too although they only get AB increases). Enhancing an item will attune it.
+Elemental runes can be used to add elemental damage to weapons, gloves or bows. There is one for each element. If you don't like the one you have you can activate it and target the rune itself. This will switch to the next type of element. Bows affected this way get the permanent elemental arrow enhancement (there is no acid version so acid gives fire). Using an elemental rune will also attune the item.
+Attribute runes add +2 of the stat to any item. There is one for each statistic. If you don't like the one that you have, you can activate it and target the run itself. This will switch it to the next attribute.
+Enhance Increase runes simply increase the maximum enhancement an item can hold.
+Elemental and Attribute Runes can be used on themselves to alter the element/stat they affect
+Attunement
+When an item becomes attuned it cannot be equipped by any other player or character. Items can become attuned a variety of ways. Some loot is attuned on acquire or equip. Some by enhancement. Items that are attuned with have a small (attuned) tag appended to them.
+You Gained/Lost a Feat
+A number of quests give feats as rewards. I've created a system of feat objects that I can plug into my existing quest system to give out as rewards. These items know which feat they're supposed to give and on-acquire will give the player the feat and then destroy themselves. Unfortunately I cannot remove the message
