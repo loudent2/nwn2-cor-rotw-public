@@ -1,0 +1,112 @@
+
+- fixed issue with Lion of Talsid animal companion stacking
+- updated elemental storm
+- Made some changes to the cmi_options. certain classes will behave differently
+- The epic version of Mirj now has a maker golem so you can complete the quest at epic levels
+- Fixed some Stormsinger issues. Made effects match descriptions.
+
+<b>Patch Notes for v362b</b>
+- Fast start fixed, but you have to re-register
+- updated some CMI options
+
+<b>Patch Notes for v362a</b>
+- Fixed town portal issue
+- fixed a bug with character identity. players may find it's possible to transfer attuned item between character. A reminder this is strickly againsst the rules
+- updated some CMI options
+
+<b>Patch Notes for v360b</b>
+- Fixed gold issue with gnolls
+- Fixed town portal bug
+- Added scroll above the "Gnoll Hating Bastard" achievement quest giver
+- Holy Warrior limited to +6. Down from 9 and other cmi_options changes
+- Gnoll Chieften was accidentally set to level 15
+
+<b>Patch Notes for v360a</b>
+- added new zone Akana Peaks. It attaches to the upper outpost and a new town Ekkys Fields. The town is undeveloped exept for a quester giver near the front
+- new security feature. Right now you will only be able to log on with the version you first log on with. I track the public CDkey and tie it to the account. I might eventually move to a server password system if this becomes an issue.
+- Dervishes now have a chance to drop new rings. Lesser from the dervs in east barrens, greater for the ones in west barrens
+- Added new ammo creation items. They can be picked up from factor jacob. I might add them to the spiritstone summon tools convo. These item can be enhanced to create magic versions of arrows (working out bugs, please don't trade these or try to sel them)
+- Dragon in west Barrnes is now a Heroicx5 mob. It has still not been lootified.
+- The sunder now sunders everything: inventory and equipped items.
+- New Achievment quest that allows you to choose between 1 of 4 new runes: Vampiric Regeneration, massive criticals, Keen and HP+10
+
+Change log for v363f
+1) XP reduction halving for over-level now starts at 4 levels over instead of 2. Expanded out to 10 levels below
+2) Fixed up the scroll selections for the first two arcane circules. Made them all infinite and added some missing spells. 
+3) Added two new items to Jacob in Land's Edge. He now has "Monkey Grip" gloves  and Surfacer's Goggles(helm, daylight adaption)
+4) cost of a lot of crafting has been reduced. Should be cheaper. Still dialing in the exact values so subject to change 
+loudent — 1/24/2024 1:22 AM
+
+loudent — 1/24/2024 1:22 AM
+Change long for v364a
+Heroic respan timers for the chode burrows, spider caves and Lost Dungeon of Mirj have been decreased to 15 minutes
+removed Lore. Items are still lore but I commented out the code that prevented you from having more than 1,
+Material Merchant. To the left in the Lands Edge Quartermaster's building. He will trade you for your various trade skill materials for tokens. You can use these tokens to purchase materials from him. If you have a lot of low level stuff and need some hire materials or if you want to swap them out, this guy will do that. You don't have to farm the early quests over and over if you get unlucky with materials
+
+Changelog for v365a
+Faster heroic respawn in
+chode burrow 1-3
+spider caves
+Mirh
+Gianthome
+Bear cave in treasure Island
+Less archers in the outposts
+Archers in barrenlands are less deadly
+Some random tweaks and fixes.
+incorporate some missing Kaedrin HB stuff
+Weakened a few Bosses
+
+
+changelog for v 366a
+trimmed down the difficulty in the Lost Dungeon of Mirj since there are so many achievement quests with critical benefits there and some classes had real difficulty with this dungeon. In the past you could duo but most people (ha, I mean me :)) are soloing now so it needs to be doable
+also trimmed down the Giant difficulty. Still hard but doable
+
+In consideration:
+The AB of most of the higher level mobs needs to be looked at. For classes with magical protection or very tighly focused defense its' ok, but a archer characte5r is going to struggle past 31 AC. If mobs  have a 30 AB they will never miss. Archers were especialy deadly. I'm not sure about what to do with it but am considering adding the following
+higher ac items for all types (deflection, armor, dodge, natural).
+adding some sort of haste boots, haste item or something. Currently  characters can get 13 UMD and use haste wands (provided they have a characater that can make them) but it's too critical to leave characters without it. Perma-haste would be too much I think but its worth considering. The dragon in the west barrenlands isn't itemized, so maybe I'l buff him up and give him some haste options for 
+
+
+changelog for v367a
+Hak file updated
+  
+Added .xml ui screens for 30+leveling
+updated spells and feats to adjust targeting (for rod      use) and instant use (elemental warrior)
+Fixed the fast start debt issue (I think)
+Added support for stat tomes 
+  
+still need to verify that the swap over works and  add (attune) so they can't be traded (maybe make the no drop quest items)
+changed the Level up script to reference OBJECT_SELF
+Spell fixes and updates
+  
+restored hellfire shield and greater missile storm to defaults.
+
+Changelog for 368d
+Changes
+Player load will no loner strip all buffs and spells. We use standard NWN2 management of status
+Crafting of wands is a little more expensive
+Stat tomes are now in the game. You can  swap out stat runes for stat tomes but using your spiritstone->ooc tools.
+Minor adjustments of mob stats
+heroic avatar adds haste
+Leveled mobs aren't quite as powerful
+
+Changelog for 368e
+Hak updated
+spirt shaman get telthor companions at level-4 (bug makes it first level)
+druids have access to improved natural bond
+trying out a fix for the elemental runes to prevent them from adding damage as burst
+enhance runes now go up to +5 standard, +10 with increase. (will add more ways in epic to gain runes in a future update)
+moved town portal out from under obelisk in land's edge
+Started the scripting work on changing the town portal to take you anywhere you have previously bound
+Buffed greater wild shapes.  I was running into an issue where an un wild shaped druid was performing better than the shapes.
+Hellfire warlock bonus damage halved to make up for ability to prevent con damage
+
+Changelog for 368f 
+there were various updates and buffs to a few different classes and abilities
+fixed an issue with attunements and mixed caps
+
+Minor update to 368g
+Binding to an obelisk saves that obelisk and now the town portal power has the ability to port you anywhere you have previously bound.
+
+
+
